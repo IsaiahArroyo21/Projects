@@ -1,0 +1,39 @@
+
+.nav li {
+  display: inline-block;
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+  width: 100px;
+  display: block;
+  padding: 15px;
+  font-size: 17px;
+  font-family: Helvetica;
+  transition: 0.4s;
+}
+.nav a:hover {
+  background: #ccc;
+  transition: 0.4s;
+  border-radius: 6px;
+}
+p {
+  text-align: center;
+  font-family: Andale Mono, monospace;
+  width: 625px;
+
+  padding-top: 10px;
+}
+.pic-5 {
+  margin: auto;
+  width: 20%;
+  position: absolute;
+  left: 650px;
+  top: 100px;
+}
+div .paragraph-3 {
+  font-family: Andale Mono, monospace;
+  width: 750px;
+}
+
+

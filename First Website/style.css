@@ -1,0 +1,55 @@
+html {
+  background-color: rgb(231, 228, 228);
+  backface-visibility: visible;
+}
+.nav li {
+  display: inline-block;
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+  width: 151px;
+  display: block;
+  padding: 25px;
+  font-size: 30px;
+  font-family: Helvetica;
+  transition: 0.4s;
+  padding-top: 100px;
+}
+.nav a:hover {
+  background: #ccc;
+  transition: 0.4s;
+  border-radius: 6px;
+}
+img {
+width: auto;
+height: 250px;
+padding-left: 450px;
+padding-top: 20px;
+}
+p {
+  text-align: center;
+  font-family: 'Work Sans' ,sans-serif ;;
+  width: 450px;
+  padding: 450px;
+  padding-top: 10px;
+  height: 5px;
+ 
+}
+h2 {
+  color: black;
+  padding-left: 355px;
+  text-align: center;
+  width: max-content;
+}
+h2 {
+  color: black;
+  padding-left: 455px;
+  text-align: center;
+  width: max-content;
+}
+
+
+ 
+
+   
